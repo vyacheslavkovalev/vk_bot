@@ -1,0 +1,4 @@
+vk-api==11.9.9
+pydantic_settings==2.2.1
+python-dotenv==1.0.1
+schedule==1.2.1
